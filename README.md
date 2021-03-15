@@ -32,7 +32,7 @@ The Computational Psychiatry Course (CPC) Zurich is split into several parts. St
 While you will only need to program during the CPC Zurich if you attend the tutorials, this is crucial skill to develop if you wish do research or work in the field of Computational Psychiatry! Here are a few resources to get started.
 - MOOC
     - [Introduction to Programming with MATLAB (Vanderbuilt University)](https://www.coursera.org/learn/matlab)
-    - 
+    - [R programming (Johns Hopkins University)](https://www.coursera.org/learn/r-programming)
 
 ## 🤖 Machine learning 
 - MOOC
