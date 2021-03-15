@@ -6,14 +6,14 @@ The Computational Psychiatry Course (CPC) Zurich is split into several parts. St
 
 ## 📐 Linear algebra 
 - MOOC
-    - [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+    - [Linear Algebra (Khan Academy)](https://www.khanacademy.org/math/linear-algebra)
 - Videos
-    - [3Blue1Brown Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): great resource to develop a visual/geometric understanding and intuition of concepts.
+    - [Essence of linear algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): great resource to develop a visual/geometric understanding and intuition of concepts.
 
 ## 🧮 Calculus 
 - MOOC
-    - [Khan Academy Calculus 1](https://www.khanacademy.org/math/calculus-1)
-    - [Ohio State University Calculus 1](https://www.coursera.org/learn/calculus1) (Bonus: highly entertaining!)
+    - [Calculus 1 (Khan Academy)](https://www.khanacademy.org/math/calculus-1)
+    - [Calculus 1 (Ohio State University)](https://www.coursera.org/learn/calculus1) (Bonus: highly entertaining!)
 
 ## 🎢 Differential equations 
 - MOOC
@@ -32,6 +32,7 @@ The Computational Psychiatry Course (CPC) Zurich is split into several parts. St
 While you will only need to program during the CPC Zurich if you attend the tutorials, this is crucial skill to develop if you wish do research or work in the field of Computational Psychiatry! Here are a few resources to get started.
 - MOOC
     - [Vanderbuilt University Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)
+    - 
 
 ## 🤖 Machine learning 
 - MOOC
