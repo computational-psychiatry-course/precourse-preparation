@@ -17,29 +17,29 @@ The Computational Psychiatry Course (CPC) Zurich is split into several parts. St
 
 ## 🎢 Differential equations 
 - MOOC
-    - [Khan Academy Differential Equations](https://www.khanacademy.org/math/differential-equations)
+    - [Differential Equations (Khan Academy)](https://www.khanacademy.org/math/differential-equations)
 
 ## 🎲 Statistics & Probability 
 - MOOC
-    - [Yu Yao's Mathematical Basics/Primers of Modelling lecture, CPC Zurich 2020](https://video.ethz.ch/lectures/d-itet/2020/autumn/227-0971-00L/a4607850-3f25-48cd-b120-5e58d09eef5f.html)
-    - [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+    - [Mathematical Basics/Primers of Modelling lecture (Yu Yao, CPC Zurich 2020)](https://video.ethz.ch/lectures/d-itet/2020/autumn/227-0971-00L/a4607850-3f25-48cd-b120-5e58d09eef5f.html)
+    - [Statistics and Probability (Khan Academy)](https://www.khanacademy.org/math/statistics-probability)
 - Papers
     - [van de Shoot et al., Bayesian Statistics and Modelling, Nature Reviews Methods Primers, 2021](https://www.nature.com/articles/s43586-020-00001-2)
 - Books
-    - [Poldrack's Statistical Thinking for the 21st century](https://statsthinking21.github.io/statsthinking21-core-site/): open-source book.
+    - [Poldrack, Statistical Thinking for the 21st century](https://statsthinking21.github.io/statsthinking21-core-site/): open-source book.
 
 ## 💻 Programming 
 While you will only need to program during the CPC Zurich if you attend the tutorials, this is crucial skill to develop if you wish do research or work in the field of Computational Psychiatry! Here are a few resources to get started.
 - MOOC
-    - [Vanderbuilt University Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)
+    - [Introduction to Programming with MATLAB (Vanderbuilt University)](https://www.coursera.org/learn/matlab)
     - 
 
 ## 🤖 Machine learning 
 - MOOC
-    - [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+    - [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning)
 
 ## 🧠 fMRI 
 - MOOC
-    - [Johns Hopkins University Principles of fMRI 1](https://www.coursera.org/learn/functional-mri)
-    - [Johns Hopkins University Principles of fMRI 2](https://www.coursera.org/learn/functional-mri-2)
+    - [Principles of fMRI 1 (Johns Hopkins University)](https://www.coursera.org/learn/functional-mri)
+    - [Principles of fMRI 2 (Johns Hopkins University)](https://www.coursera.org/learn/functional-mri-2)
 
