@@ -21,6 +21,7 @@ The Computational Psychiatry Course (CPC) Zurich is split into several parts. St
 
 ## 🎲 Statistics & Probability 
 - MOOC
+    - [Yu Yao's Mathematical Basics/Primers of Modelling lecture, CPC Zurich 2020](https://video.ethz.ch/lectures/d-itet/2020/autumn/227-0971-00L/a4607850-3f25-48cd-b120-5e58d09eef5f.html)
     - [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 - Papers
     - [van de Shoot et al., Bayesian Statistics and Modelling, Nature Reviews Methods Primers, 2021](https://www.nature.com/articles/s43586-020-00001-2)
