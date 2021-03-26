@@ -10,7 +10,7 @@ The Computational Psychiatry Course (CPC) Zurich is split into several parts. St
     - [Understanding the Brain: The Neurobiology of Everyday Life (University of Chicago)](https://www.coursera.org/learn/neurobiology) (not necessary for course, to explore more specific topics) 
     - [Medical Neuroscience (Duke University)](https://www.coursera.org/learn/medical-neuroscience/) (not necessary for course, to explore more specific topics) 
 
-## 💥 Neurophysiology and neuroimaging 
+## 💥 Neuroimaging 
 - MOOC
     - [Principles of fMRI 1 (Johns Hopkins University)](https://www.coursera.org/learn/functional-mri)
     - [Principles of fMRI 2 (Johns Hopkins University)](https://www.coursera.org/learn/functional-mri-2)
