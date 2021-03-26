@@ -7,8 +7,8 @@ The Computational Psychiatry Course (CPC) Zurich is split into several parts. St
 ## 🧠 Basic and applied neuroscience
 - MOOC
     - [Fundamental Neuroscience for neuroimaging (Johns Hopkins University)](https://www.coursera.org/learn/neuroscience-neuroimaging/)
-    - [Understanding the Brain: The Neurobiology of Everyday Life (University of Chicago)](https://www.coursera.org/learn/neurobiology) (not necessary for course, to explore more specific topics) 
-    - [Medical Neuroscience (Duke University)](https://www.coursera.org/learn/medical-neuroscience/) (not necessary for course, to explore more specific topics) 
+    - [Understanding the Brain: The Neurobiology of Everyday Life (University of Chicago)](https://www.coursera.org/learn/neurobiology) (not necessary for course, to explore specific topics) 
+    - [Medical Neuroscience (Duke University)](https://www.coursera.org/learn/medical-neuroscience/) (not necessary for course, to explore specific topics) 
 
 ## 💥 Neuroimaging 
 - MOOC
