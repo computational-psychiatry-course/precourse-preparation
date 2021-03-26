@@ -4,6 +4,17 @@ The Computational Psychiatry Course (CPC) Zurich is split into several parts. St
 
 *Note:* All recommended [MOOCs](https://en.wikipedia.org/wiki/Massive_open_online_course) are freely available. As for the recommended reading, try using tools and platforms such as [Kopernio](https://kopernio.com/) or [Research Gate](https://www.researchgate.net/) to find freely accessible versions of papers, in case you hit a paywall.
 
+## 🧠 Basic and applied neuroscience
+- MOOC
+    - [Fundamental Neuroscience for neuroimaging (Johns Hopkins University)](https://www.coursera.org/learn/neuroscience-neuroimaging/)
+    - [Understanding the Brain: The Neurobiology of Everyday Life (University of Chicago)](https://www.coursera.org/learn/neurobiology) (not necessary for course, to explore more specific topics) 
+    - [Medical Neuroscience (Duke University)](https://www.coursera.org/learn/medical-neuroscience/) (not necessary for course, to explore more specific topics) 
+
+## 💥 Neurophysiology and neuroimaging 
+- MOOC
+    - [Principles of fMRI 1 (Johns Hopkins University)](https://www.coursera.org/learn/functional-mri)
+    - [Principles of fMRI 2 (Johns Hopkins University)](https://www.coursera.org/learn/functional-mri-2)
+
 ## 📐 Linear algebra 
 - MOOC
     - [Linear Algebra (Khan Academy)](https://www.khanacademy.org/math/linear-algebra)
@@ -37,9 +48,4 @@ While you will only need to program during the CPC Zurich if you attend the tuto
 ## 🤖 Machine learning 
 - MOOC
     - [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning)
-
-## 🧠 fMRI 
-- MOOC
-    - [Principles of fMRI 1 (Johns Hopkins University)](https://www.coursera.org/learn/functional-mri)
-    - [Principles of fMRI 2 (Johns Hopkins University)](https://www.coursera.org/learn/functional-mri-2)
 
