@@ -24,7 +24,7 @@ The Computational Psychiatry Course (CPC) Zurich is split into several parts. St
 ## 🧮 Calculus 
 - MOOC
     - [Calculus 1 (Khan Academy)](https://www.khanacademy.org/math/calculus-1)
-    - [Calculus 1 (Ohio State University)](https://www.coursera.org/learn/calculus1) (Bonus: highly entertaining!)
+    - [Calculus 1 (Ohio State University)](https://www.youtube.com/c/kisonecat/playlists?view=50&sort=dd&shelf_id=4) (Bonus: highly entertaining!)
 
 ## 🎢 Differential equations 
 - MOOC
